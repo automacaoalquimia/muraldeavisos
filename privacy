@@ -1,0 +1,17 @@
+# Privacy Policy for [Nome da Extensão / Ex: Mural de Avisos]
+
+Last updated: [Mês e Ano]
+
+1. Introduction
+This Privacy Policy describes how the [Nome da Extensão] Chrome extension handles user information. We are committed to protecting the privacy of our users.
+
+2. Information Collection and Usage
+- Local Storage: The extension uses local browser storage solely to save user interface settings, cached bulletin board notices, and read status markers.
+- Host Access: The extension connects exclusively to our designated backend server ([inserir domínio da API, ex: api.seuservidor.com]) to retrieve published board announcements and verify access permissions.
+- Personal Data: The extension does not collect, log, track, or share any personal user data, browsing history, or sensitive private information.
+
+3. Third-Party Sharing
+We do not sell, rent, trade, or transfer any user data to third parties.
+
+4. Contact Us
+If you have any questions or concerns regarding this privacy policy, please contact us at: [O seu e-mail de suporte ou da empresa].
